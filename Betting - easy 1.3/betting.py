@@ -1,5 +1,3 @@
-import decimal
-
 #read the input and convert into a integer
 n = int(input())
 #calculate and print the option one switch-pauyout-ratio
